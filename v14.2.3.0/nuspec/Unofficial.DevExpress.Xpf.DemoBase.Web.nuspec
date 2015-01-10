@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Unofficial.DevExpress.Xpf.DemoBase.Web</id>
+    <version>14.2.3.0</version>
+    <title>Unofficial.DevExpress.Xpf.DemoBase.Web</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Caio Proiete</owners>
+    <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
+    <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DevExpress.Xpf.DemoBase.v14.2.Web, Version=14.2.3.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4</description>
+    <summary>Unofficial.DevExpress.Xpf.DemoBase.Web NuGet package</summary>
+    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <tags>unofficial devexpress xpf demobase web</tags>
+  </metadata>
+  <files>
+    <file src="lib\DevExpress.Xpf.DemoBase.v14.2.Web.dll" target="lib\net40" />
+  </files>
+</package>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Unofficial.DevExpress.Snap.Design</id>
+    <version>14.2.3.0</version>
+    <title>Unofficial.DevExpress.Snap.Design</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Caio Proiete</owners>
+    <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
+    <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DevExpress.Snap.v14.2.Design, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <summary>Unofficial.DevExpress.Snap.Design NuGet package</summary>
+    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <tags>unofficial devexpress snap design</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Unofficial.DevExpress.XtraBars" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraRichEdit.Design" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars.Design" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraRichEdit.Extensions" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraRichEdit" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts.UI" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Snap" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Snap.Core" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Snap.Extensions" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Design" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraPrinting" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Office.Core" version="14.2.3.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\Design\DevExpress.Snap.v14.2.Design.dll" target="lib\net40" />
+    <file src="tools\install.ps1" target="tools" />
+  </files>
+</package>

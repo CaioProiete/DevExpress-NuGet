@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Unofficial.DevExpress.XtraScheduler.Design</id>
+    <version>14.2.3.0</version>
+    <title>Unofficial.DevExpress.XtraScheduler.Design</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Caio Proiete</owners>
+    <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
+    <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DevExpress.XtraScheduler.v14.2.Design, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <summary>Unofficial.DevExpress.XtraScheduler.Design NuGet package</summary>
+    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <tags>unofficial devexpress xtrascheduler design</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Unofficial.DevExpress.Utils" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraTreeList.Design" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Reporting.Extensions" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports.Design" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars.Design" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Design" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors.Design" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Extensions" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraTreeList" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Reporting" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports.Extensions" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraNavBar" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraGrid" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraVerticalGrid" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Xpo" version="14.2.3.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\Design\DevExpress.XtraScheduler.v14.2.Design.dll" target="lib\net40" />
+    <file src="tools\install.ps1" target="tools" />
+  </files>
+</package>

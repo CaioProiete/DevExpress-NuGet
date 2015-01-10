@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Unofficial.DevExpress.DemoData</id>
+    <version>14.2.3.0</version>
+    <title>Unofficial.DevExpress.DemoData</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Caio Proiete</owners>
+    <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
+    <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DevExpress.DemoData.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <summary>Unofficial.DevExpress.DemoData NuGet package</summary>
+    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <tags>unofficial devexpress demodata</tags>
+  </metadata>
+  <files>
+    <file src="lib\DevExpress.DemoData.v14.2.dll" target="lib\net40" />
+  </files>
+</package>
