@@ -2,27 +2,27 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Xpf.Grid.Design</id>
-    <version>15.2.3.0</version>
+    <version>15.2.4.0</version>
     <title>Unofficial.DevExpress.Xpf.Grid.Design</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Xpf.Grid.v15.2.Design, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Xpf.Grid.v15.2.Design, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Xpf.Grid.Design NuGet package</summary>
     <copyright>Copyright (C) 2000-2015 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf grid design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Grid.Core" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Grid" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design.Wizards" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Design" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Mvvm" version="15.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Grid.Core" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Grid" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design.Wizards" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Design" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Mvvm" version="15.2.4.0" />
       </group>
     </dependencies>
   </metadata>

@@ -2,29 +2,29 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Persistent.BaseImpl</id>
-    <version>15.2.3.0</version>
+    <version>15.2.4.0</version>
     <title>Unofficial.DevExpress.Persistent.BaseImpl</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Persistent.BaseImpl.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Persistent.BaseImpl.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Persistent.BaseImpl NuGet package</summary>
     <copyright>Copyright (C) 2000-2015 Developer Express Inc.</copyright>
     <tags>unofficial devexpress persistent baseimpl</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpo" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Persistent.Base" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.ReportsV2" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Xpo" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Reports" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.ConditionalAppearance" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="15.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Xpo" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Persistent.Base" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.ReportsV2" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Xpo" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Reports" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.ConditionalAppearance" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="15.2.4.0" />
       </group>
     </dependencies>
   </metadata>

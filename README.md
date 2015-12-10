@@ -35,13 +35,13 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v15.1.dll` directly referenc
     <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
       <metadata>
         <id>Unofficial.DevExpress.Xpf.Ribbon</id>
-        <version>15.2.3.0</version>
+        <version>15.2.4.0</version>
         <!-- ... (omitted for brevity) -->
         <dependencies>
           <group targetFramework=".NETFramework4.0">
-            <dependency id="Unofficial.DevExpress.Xpf.Core" version="15.2.3.0" />
-            <dependency id="Unofficial.DevExpress.Data" version="15.2.3.0" />
-            <dependency id="Unofficial.DevExpress.Mvvm" version="15.2.3.0" />
+            <dependency id="Unofficial.DevExpress.Xpf.Core" version="15.2.4.0" />
+            <dependency id="Unofficial.DevExpress.Data" version="15.2.4.0" />
+            <dependency id="Unofficial.DevExpress.Mvvm" version="15.2.4.0" />
           </group>
        </dependencies>
       </metadata>
@@ -86,8 +86,8 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
 
 
 ## Release History
- * **v15.2.3.0** - 2015-12-09
-   - Contains NuGet specs for the DevExpress Components 15.2.3 released on December 02, 2015
+ * **v15.2.4.0** - 2015-12-09
+   - Contains NuGet specs for the DevExpress Components 15.2.4 released on December 02, 2015
 
  * **v15.1.8.0** - 2015-11-16
    - Contains NuGet specs for the DevExpress Components 15.1.8 released on November 12, 2015

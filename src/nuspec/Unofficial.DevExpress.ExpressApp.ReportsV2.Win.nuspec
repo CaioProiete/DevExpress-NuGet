@@ -2,33 +2,33 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.ExpressApp.ReportsV2.Win</id>
-    <version>15.2.3.0</version>
+    <version>15.2.4.0</version>
     <title>Unofficial.DevExpress.ExpressApp.ReportsV2.Win</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.ExpressApp.ReportsV2.Win.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.ExpressApp.ReportsV2.Win.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.ExpressApp.ReportsV2.Win NuGet package</summary>
     <copyright>Copyright (C) 2000-2015 Developer Express Inc.</copyright>
     <tags>unofficial devexpress expressapp reportsv2 win</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.ExpressApp.ReportsV2" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports.Extensions" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Persistent.Base" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Utils" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraPrinting" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Utils.UI" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraTreeList" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraEditors" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Win" version="15.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraBars" version="15.2.3.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.ReportsV2" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports.Extensions" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Persistent.Base" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraPrinting" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Utils.UI" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraTreeList" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Win" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars" version="15.2.4.0" />
       </group>
     </dependencies>
   </metadata>
