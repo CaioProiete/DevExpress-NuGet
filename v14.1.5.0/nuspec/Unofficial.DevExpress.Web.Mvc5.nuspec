@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Unofficial.DevExpress.Web.Mvc5</id>
+    <version>14.1.5.0</version>
+    <title>Unofficial.DevExpress.Web.Mvc5</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Caio Proiete</owners>
+    <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
+    <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DevExpress.Web.Mvc5.v14.1, Version=14.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <summary>Unofficial.DevExpress.Web.Mvc5 NuGet package</summary>
+    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <tags>unofficial devexpress web mvc5</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Unofficial.DevExpress.Web" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts.Web" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxHtmlEditor" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxSpellChecker" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxPivotGrid" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports.Web" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxScheduler" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxSpreadsheet" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxTreeList" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Spreadsheet.Core" version="14.1.5.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\DevExpress.Web.Mvc5.v14.1.dll" target="lib\net40" />
+  </files>
+</package>

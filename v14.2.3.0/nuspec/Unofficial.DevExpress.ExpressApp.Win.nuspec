@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Unofficial.DevExpress.ExpressApp.Win</id>
+    <version>14.2.3.0</version>
+    <title>Unofficial.DevExpress.ExpressApp.Win</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Caio Proiete</owners>
+    <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
+    <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DevExpress.ExpressApp.Win.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <summary>Unofficial.DevExpress.ExpressApp.Win NuGet package</summary>
+    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <tags>unofficial devexpress expressapp win</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Unofficial.DevExpress.XtraTreeList" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraRichEdit" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraVerticalGrid" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraGrid" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraLayout" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraNavBar" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Persistent.Base" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraPrinting" version="14.2.3.0" />
+        <dependency id="Unofficial.DevExpress.BonusSkins" version="14.2.3.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\DevExpress.ExpressApp.Win.v14.2.dll" target="lib\net40" />
+  </files>
+</package>

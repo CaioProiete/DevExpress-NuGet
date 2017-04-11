@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Unofficial.DevExpress.XtraGauges.Presets</id>
+    <version>14.1.5.0</version>
+    <title>Unofficial.DevExpress.XtraGauges.Presets</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Caio Proiete</owners>
+    <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
+    <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DevExpress.XtraGauges.v14.1.Presets, Version=14.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <summary>Unofficial.DevExpress.XtraGauges.Presets NuGet package</summary>
+    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <tags>unofficial devexpress xtragauges presets</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Unofficial.DevExpress.Data" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraGauges.Core" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="14.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraLayout" version="14.1.5.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\DevExpress.XtraGauges.v14.1.Presets.dll" target="lib\net40" />
+  </files>
+</package>
